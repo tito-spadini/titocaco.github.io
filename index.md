@@ -4,7 +4,7 @@ layout: default
 
 <img src="https://raw.githubusercontent.com/titocaco/titocaco.github.io/master/images/tito_000.jpg" width="200" height="200"/>
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+<!-- Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
@@ -122,4 +122,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 
 ```
 The final element.
-```
+``` -->
