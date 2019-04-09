@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![Tito](https://github.com/titocaco/site/images/tito_000.png)
+![Tito](https://raw.githubusercontent.com/titocaco/titocaco.github.io/master/images/tito_000.jpg)
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
