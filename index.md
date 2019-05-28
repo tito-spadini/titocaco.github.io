@@ -4,6 +4,49 @@ layout: default
 
 <img src="https://raw.githubusercontent.com/titocaco/titocaco.github.io/master/images/tito_000.jpg" width="200" height="200"/>
 
+Hello! My name is Tito Spadini and I was born in 1989 at São Paulo, SP, Brazil.
+
+I am currently pursuiting my Masters Degree in Information Engineering at _Signals & Systems Lab_ from Universidade Federal do ABC.
+
+Meanwhile, I work on several side projects which I choose to do because I believe that all scientists, on principle, should use their own knowledge to contribute to society, preferably by communicationg with people outside the academic environment. These side projects are: a Podcast, a Medium blog, YouTube channel, multiple Facebooks pages, and some keynotes that I organize from time to time; all about **STEM** (**S**cience, **T**echnology, **E**ngineering & **M**athematics) and Education.
+
+## Channels and Social Media
+* [Facebook](https://www.facebook.com/titospadini)
+* [Twitter](https://www.twitter.com/titospadini)
+* [YouTube](https://www.youtube.com/titocaco)
+* [Researchgate](https://www.researchgate.net/profile/Tito_Caco_Spadini)
+* [Medium](https://www.medium.com/@titospadini)
+* [Podcast](https://www.facebook.com/cafecomsinais)
+
+## Concentration Fields
+  * Digital Signal Processing
+  * Computational Ingelligence
+  * Machine Learning
+  * Data Science
+  * Audio Signal Processing
+
+<!-- # _Curriculum vitae_ -->
+
+## Education
+
+* **Master of Science in Information Engineering**
+  * Universidade Federal do ABC (UFABC)
+  * Advisor:  Ricardo Suyama
+  * Title:  _Generative Adversarial Networks for Audio and Speech Enhancement_
+  * 2018 - Current
+
+* **Bachelor of Science in Information Engineering**
+  * Universidade Federal do ABC (UFABC)
+  * 2015 - 2017
+
+* **Bachelor of Science in Science & Technology**
+  * Universidade Federal do ABC (UFABC)
+  * 2011 - 2015
+
+
+
+
+
 <!-- Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
