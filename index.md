@@ -8,7 +8,7 @@ Hello! My name is Tito Spadini and I was born in 1989 at São Paulo, SP, Brazil.
 
 I am currently pursuiting my Masters Degree in Information Engineering at _Signals & Systems Lab_ from Universidade Federal do ABC.
 
-Meanwhile, I work on several side projects which I choose to do because I believe that all scientists, on principle, should use their own knowledge to contribute to society, preferably by communicationg with people outside the academic environment. These side projects are: a Podcast, a Medium blog, YouTube channel, multiple Facebooks pages, and some keynotes that I organize from time to time; all about **STEM** (**S**cience, **T**echnology, **E**ngineering & **M**athematics) and Education.
+Meanwhile, I work on several side projects which I choose to do because I believe that all scientists, on principle, should use their own knowledge to contribute to society, preferably by communicating with people outside the academic environment. These side projects are: a Podcast, a Medium blog, YouTube channel, multiple Facebooks pages, and some keynotes that I organize from time to time; all about **STEM** (**S**cience, **T**echnology, **E**ngineering & **M**athematics) and Education.
 
 ## Channels and Social Media
 * [Facebook](https://www.facebook.com/titospadini)
