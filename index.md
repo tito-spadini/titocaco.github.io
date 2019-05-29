@@ -6,7 +6,7 @@ layout: default
 
 Hello! My name is Tito Spadini and I was born in 1989 at São Paulo, SP, Brazil.
 
-I am currently pursuiting my Masters Degree in Information Engineering at _Signals & Systems Lab_ from Universidade Federal do ABC.
+I am currently pursuing a Master's Degree in Information Engineering at _Signals & Systems Lab_ from Universidade Federal do ABC.
 
 Meanwhile, I work on several side projects which I choose to do because I believe that all scientists, on principle, should use their own knowledge to contribute to society, preferably by communicating with people outside the academic environment. These side projects are: a Podcast, a Medium blog, YouTube channel, multiple Facebooks pages, and some keynotes that I organize from time to time; all about **STEM** (**S**cience, **T**echnology, **E**ngineering & **M**athematics) and Education.
 
@@ -14,9 +14,12 @@ Meanwhile, I work on several side projects which I choose to do because I believ
 * [Facebook](https://www.facebook.com/titospadini)
 * [Twitter](https://www.twitter.com/titospadini)
 * [YouTube](https://www.youtube.com/titocaco)
-* [Researchgate](https://www.researchgate.net/profile/Tito_Caco_Spadini)
 * [Medium](https://www.medium.com/@titospadini)
 * [Podcast](https://www.facebook.com/cafecomsinais)
+
+* [Researchgate](https://www.researchgate.net/profile/Tito_Caco_Spadini)
+* [Scholar](https://scholar.google.com.br/citations?user=5d13kDAAAAAJ)
+* [ORCID](https://orcid.org/0000-0002-2716-174X)
 
 ## Concentration Fields
   * Digital Signal Processing
@@ -31,7 +34,7 @@ Meanwhile, I work on several side projects which I choose to do because I believ
 
 * **Master of Science in Information Engineering**
   * Universidade Federal do ABC (UFABC)
-  * Advisor:  Ricardo Suyama
+  * Advisor:  Ph.D. Ricardo Suyama
   * Title:  _Generative Adversarial Networks for Audio and Speech Enhancement_
   * 2018 - Current
 

@@ -3,3 +3,11 @@ description: Information Engineer, Scientist, Researcher, Professor, Developer, 
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
+
+url:  https://titocaco.github.io
+languages: ["en", "pt"]
+exclude_from_localizations: ["assets", "CNAME"]
+defaultLang: en
+languageNames:
+  en: English
+  pt: Portuguese
