@@ -11,3 +11,6 @@ defaultLang: en
 languageNames:
   en: English
   pt: Portuguese
+
+gems:
+  - jekyll-multiple-languages-plugin
