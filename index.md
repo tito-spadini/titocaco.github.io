@@ -4,6 +4,8 @@ layout: default
 
 <img src="https://raw.githubusercontent.com/titocaco/titocaco.github.io/master/images/tito_000.jpg" width="200" height="200"/>
 
+**e-Mail: tito.caco@ufabc.edu.br**
+
 Hello! My name is Tito Spadini and I was born in 1989 at São Paulo, SP, Brazil.
 
 I am currently pursuing a Master's Degree in Information Engineering at _Signals & Systems Lab_ from Universidade Federal do ABC.
