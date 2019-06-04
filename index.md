@@ -28,7 +28,7 @@ Meanwhile, I work on several side projects which I choose to do because I believ
   * Computational Ingelligence
   * Machine Learning
   * Data Science
-  * Audio Signal Processing
+  * Audio, Music and Speech Signal Processing
 
 <!-- # _Curriculum vitae_ -->
 
