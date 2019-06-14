@@ -24,11 +24,11 @@ Meanwhile, I work on several side projects which I choose to do because I believ
 * [ORCID](https://orcid.org/0000-0002-2716-174X)
 
 ## Concentration Fields
+  * Audio, Music and Speech Signal Processing
   * Digital Signal Processing
   * Computational Ingelligence
   * Machine Learning
   * Data Science
-  * Audio, Music and Speech Signal Processing
 
 <!-- # _Curriculum vitae_ -->
 
