@@ -15,7 +15,7 @@ Meanwhile, I work on several side projects which I choose to do because I believ
 ## Channels and Social Media
 * [Facebook](https://www.facebook.com/titospadini)
 * [Twitter](https://www.twitter.com/titospadini)
-* [YouTube](https://www.youtube.com/titocaco)
+* [YouTube](https://www.youtube.com/titospadini)
 * [Medium](https://www.medium.com/@titospadini)
 * [Podcast](https://www.facebook.com/cafecomsinais)
 
