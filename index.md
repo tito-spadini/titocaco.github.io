@@ -25,6 +25,7 @@ Meanwhile, I work on several side projects which I choose to do because I believ
 
 ## Concentration Fields
   * Audio, Music and Speech Signal Processing
+  * Denoising
   * Digital Signal Processing
   * Computational Intelligence
   * Machine Learning
