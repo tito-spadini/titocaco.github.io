@@ -35,11 +35,17 @@ Meanwhile, I work on several side projects which I choose to do because I believ
 
 ## Education
 
+* **Phylosophy Doctor in Information Engineering**
+  * Universidade Federal do ABC (UFABC)
+  * Advisor:    Ph.D. Ricardo Suyama
+  * co-Advisor: Ph.D. Kenji Nose Filho
+  * 2020 - Current
+
 * **Master of Science in Information Engineering**
   * Universidade Federal do ABC (UFABC)
   * Advisor:  Ph.D. Ricardo Suyama
   * Title:  _Generative Adversarial Networks for Audio and Speech Enhancement_
-  * 2018 - Current
+  * 2018 - 2020
 
 * **Bachelor of Science in Information Engineering**
   * Universidade Federal do ABC (UFABC)
