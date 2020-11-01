@@ -35,7 +35,7 @@ Meanwhile, I work on several side projects which I choose to do because I believ
 
 ## Education
 
-* **Phylosophy Doctor in Information Engineering**
+* **PhD Student in Information Engineering**
   * Universidade Federal do ABC (UFABC)
   * Advisor:    Ph.D. Ricardo Suyama
   * co-Advisor: Ph.D. Kenji Nose Filho
