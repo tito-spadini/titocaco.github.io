@@ -12,6 +12,10 @@ I am currently pursuing a Ph.D. in Information Engineering at the _Laboratory of
 
 Meanwhile, I work on several side projects which I choose to do because I believe that all scientists, on principle, should use their own knowledge to contribute to society, preferably by communicating with people outside the academic environment. These side projects are: a Podcast, a Medium blog, YouTube channel, multiple Facebooks pages, and some keynotes that I organize from time to time; all about **STEM** (**S**cience, **T**echnology, **E**ngineering & **M**athematics) and Education.
 
+I am also working on a side-project called "Café com Sinais" that started in 2018 as a typical Podcast (audio only). I invite students, professors, and industry professionals to talk about science, technology, engineering, education, research, academic life, professional skills, and general topics. Despite the main subjects listed above, guests may talk about anything they want, but Café com Sinais do not endorse their opinions and messages. This Podcast goes Live through Twitch, where spectators can send messages and questions  (we read them only at the end of the episode or at the end of each part).
+
+
+
 ## Channels and Social Media
 ### Personal
 * [Facebook](https://www.facebook.com/titospadini)
