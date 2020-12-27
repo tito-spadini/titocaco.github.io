@@ -13,13 +13,15 @@ I am currently pursuing a Ph.D. in Information Engineering at the _Laboratory of
 Meanwhile, I work on several side projects which I choose to do because I believe that all scientists, on principle, should use their own knowledge to contribute to society, preferably by communicating with people outside the academic environment. These side projects are: a Podcast, a Medium blog, YouTube channel, multiple Facebooks pages, and some keynotes that I organize from time to time; all about **STEM** (**S**cience, **T**echnology, **E**ngineering & **M**athematics) and Education.
 
 ## Channels and Social Media
+### Personal
 * [Facebook](https://www.facebook.com/titospadini)
 * [Twitter](https://www.twitter.com/titospadini)
 * [YouTube](https://www.youtube.com/titospadini)
 * [Medium](https://www.medium.com/@titospadini)
 * [Podcast](https://www.facebook.com/cafecomsinais)
 
-* [Researchgate](https://www.researchgate.net/profile/Tito_Caco_Spadini)
+# Professional
+* [Researchgate](https://www.researchgate.net/profile/Tito_Spadini)
 * [Scholar](https://scholar.google.com.br/citations?user=5d13kDAAAAAJ)
 * [ORCID](https://orcid.org/0000-0002-2716-174X)
 
