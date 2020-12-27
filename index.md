@@ -18,12 +18,22 @@ Meanwhile, I work on several side projects which I choose to do because I believ
 * [Twitter](https://www.twitter.com/titospadini)
 * [YouTube](https://www.youtube.com/titospadini)
 * [Medium](https://www.medium.com/@titospadini)
-* [Podcast](https://www.facebook.com/cafecomsinais)
 
-# Professional
+### Professional & Research
+* [LinkedIn](https://www.linkedin.com/in/titospadini/)
 * [Researchgate](https://www.researchgate.net/profile/Tito_Spadini)
 * [Scholar](https://scholar.google.com.br/citations?user=5d13kDAAAAAJ)
 * [ORCID](https://orcid.org/0000-0002-2716-174X)
+
+### Café com Sinais
+* [YouTube - Café com Sinais](https://www.youtube.com/channel/UCLnSFZcHeSNDNpYx1igvvSA)
+* [YouTube - Janelas do Café com Sinais](https://www.youtube.com/channel/UC2wYPgMUzIm9XTKTf6pgOqA)
+* [YouTube - Amostras do Café com Sinais](https://www.youtube.com/channel/UCG407Ck4UM-J6kjP2HKe3_Q)
+* [Twitch - Lives](https://www.twitch.tv/cafecomsinais)
+* [Instagram](https://www.instagram.com/cafecomsinais/)
+* [Facebook](https://www.facebook.com/cafecomsinais)
+* [Twitter](https://twitter.com/CafeComSinais)
+* [LinkedIn](https://www.linkedin.com/company/cafecomsinais/)
 
 ## Concentration Fields
   * Audio, Music and Speech Signal Processing
