@@ -25,11 +25,12 @@ Meanwhile, I work on several side projects which I choose to do because I believ
 * [Scholar](https://scholar.google.com.br/citations?user=5d13kDAAAAAJ)
 * [ORCID](https://orcid.org/0000-0002-2716-174X)
 
-### Café com Sinais
+### Café com Sinais (Podcast)
 * [YouTube - Café com Sinais](https://www.youtube.com/channel/UCLnSFZcHeSNDNpYx1igvvSA)
 * [YouTube - Janelas do Café com Sinais](https://www.youtube.com/channel/UC2wYPgMUzIm9XTKTf6pgOqA)
 * [YouTube - Amostras do Café com Sinais](https://www.youtube.com/channel/UCG407Ck4UM-J6kjP2HKe3_Q)
 * [Twitch - Lives](https://www.twitch.tv/cafecomsinais)
+* [Anchor - Podcast (Audio Only)](https://anchor.fm/cafe-com-sinais)
 * [Instagram](https://www.instagram.com/cafecomsinais/)
 * [Facebook](https://www.facebook.com/cafecomsinais)
 * [Twitter](https://twitter.com/CafeComSinais)
