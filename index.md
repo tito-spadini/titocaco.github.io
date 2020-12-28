@@ -5,7 +5,9 @@ layout: default
 <img src="https://raw.githubusercontent.com/titocaco/titocaco.github.io/master/images/tito_000.jpg" width="200" height="200"/>
 
 **tito.caco@ufabc.edu.br** (academic)
+
 **tito.spadini@gmail.com** (non-academic)
+
 **cafecomsinais@gmail.com** ("Café com Sinais"-related purposes)
 
 Hello! My name is Tito Spadini and I was born in 1989 at São Paulo, SP, Brazil.
