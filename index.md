@@ -34,6 +34,7 @@ I am also working on a side-project called "Café com Sinais" that started in 20
 * [Researchgate](https://www.researchgate.net/profile/Tito_Spadini)
 * [Scholar](https://scholar.google.com.br/citations?user=5d13kDAAAAAJ)
 * [ORCID](https://orcid.org/0000-0002-2716-174X)
+* [Lattes](http://lattes.cnpq.br/3817440854911030)
 
 ### Café com Sinais (Podcast)
 * [YouTube - Café com Sinais - Full Episodes](https://www.youtube.com/channel/UCLnSFZcHeSNDNpYx1igvvSA)
