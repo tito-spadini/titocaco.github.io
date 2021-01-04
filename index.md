@@ -37,9 +37,9 @@ I am also working on a side-project called "Café com Sinais" that started in 20
 * [Lattes](http://lattes.cnpq.br/3817440854911030)
 
 ### Café com Sinais (Podcast)
-* [YouTube - Café com Sinais - Full Episodes](https://www.youtube.com/channel/UCLnSFZcHeSNDNpYx1igvvSA)
-* [YouTube - Janelas do Café com Sinais - Individual Parts](https://www.youtube.com/channel/UC2wYPgMUzIm9XTKTf6pgOqA)
-* [YouTube - Amostras do Café com Sinais - Highlights](https://www.youtube.com/channel/UCG407Ck4UM-J6kjP2HKe3_Q)
+* [YouTube - Café com Sinais](https://www.youtube.com/channel/UCLnSFZcHeSNDNpYx1igvvSA) (Full Episodes)
+* [YouTube - Janelas do Café com Sinais](https://www.youtube.com/channel/UC2wYPgMUzIm9XTKTf6pgOqA) (Individual Parts)
+* [YouTube - Amostras do Café com Sinais](https://www.youtube.com/channel/UCG407Ck4UM-J6kjP2HKe3_Q) (Highlights)
 * [Twitch - Lives](https://www.twitch.tv/cafecomsinais)
 * [Anchor - Podcast (Audio Only)](https://anchor.fm/cafe-com-sinais)
 * [Instagram](https://www.instagram.com/cafecomsinais/)
