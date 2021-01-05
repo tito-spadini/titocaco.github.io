@@ -20,16 +20,17 @@ Meanwhile, I work on several side projects which I choose to do because I believ
 
 I am also working on a side-project called "Café com Sinais" that started in 2018 as a typical Podcast (audio only). I invite students, professors, and industry professionals to talk about science, technology, engineering, education, research, academic life, professional skills, and general topics. Despite the main subjects listed above, guests may talk about anything they want, but Café com Sinais do not endorse their opinions and messages. This Podcast goes Live through Twitch, where spectators can send messages and questions  (we read them only at the end of the episode or at the end of each part).
 
-
-
 ## Channels and Social Media
+
 ### Personal
+
 * [Facebook](https://www.facebook.com/titospadini)
 * [Twitter](https://www.twitter.com/titospadini)
 * [YouTube](https://www.youtube.com/titospadini)
 * [Medium](https://www.medium.com/@titospadini)
 
 ### Professional & Research
+
 * [LinkedIn](https://www.linkedin.com/in/titospadini/)
 * [Researchgate](https://www.researchgate.net/profile/Tito_Spadini)
 * [Scholar](https://scholar.google.com.br/citations?user=5d13kDAAAAAJ)
@@ -37,6 +38,7 @@ I am also working on a side-project called "Café com Sinais" that started in 20
 * [Lattes](http://lattes.cnpq.br/3817440854911030)
 
 ### Café com Sinais (Podcast)
+
 * [YouTube - Café com Sinais](https://www.youtube.com/channel/UCLnSFZcHeSNDNpYx1igvvSA) (Full Episodes)
 * [YouTube - Janelas do Café com Sinais](https://www.youtube.com/channel/UC2wYPgMUzIm9XTKTf6pgOqA) (Individual Parts)
 * [YouTube - Amostras do Café com Sinais](https://www.youtube.com/channel/UCG407Ck4UM-J6kjP2HKe3_Q) (Highlights)
@@ -48,12 +50,13 @@ I am also working on a side-project called "Café com Sinais" that started in 20
 * [LinkedIn](https://www.linkedin.com/company/cafecomsinais/)
 
 ## Concentration Fields
-  * Audio, Music and Speech Signal Processing
-  * Denoising
-  * Digital Signal Processing
-  * Computational Intelligence
-  * Machine Learning
-  * Data Science
+
+* Audio, Music and Speech Signal Processing
+* Denoising
+* Digital Signal Processing
+* Computational Intelligence
+* Machine Learning
+* Data Science
 
 <!-- # _Curriculum vitae_ -->
 
@@ -78,10 +81,6 @@ I am also working on a side-project called "Café com Sinais" that started in 20
 * **Bachelor of Science in Science & Technology**
   * Universidade Federal do ABC (UFABC)
   * 2011 - 2015
-
-
-
-
 
 <!-- Text can be **bold**, _italic_, or ~~strikethrough~~.
 
