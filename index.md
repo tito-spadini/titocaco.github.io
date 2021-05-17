@@ -4,32 +4,32 @@ layout: default
 
 <img src="https://raw.githubusercontent.com/titocaco/titocaco.github.io/master/images/tito_000.jpg" width="200" height="200"/>
 
-## e-Mail addresses
+## Endereços de e-Mail
 
-* **tito.caco@ufabc.edu.br** (academic)
-* **tito.spadini@gmail.com** (non-academic)
-* **cafecomsinais@gmail.com** ("Café com Sinais"-related purposes)
+* **tito.caco@ufabc.edu.br** (acadêmico)
+* **tito.spadini@gmail.com** (não acadêmico)
+* **cafecomsinais@gmail.com** (sobre "Café com Sinais")
 
-## About me
+## Sobre mim
 
-Hello! My name is Tito Spadini and I was born in 1989 at São Paulo, SP, Brazil.
+Saudações! Chamo-me Tito Spadini, e nasci em 1989 na cidade de São Paulo, SP, Brasil.
 
-I am currently pursuing a Ph.D. in Information Engineering at the _Laboratory of Signals & Systems_ from Universidade Federal do ABC.
+Trabalho no _Laboratório de Sinais e Sistemas_ (LSS) da _Universidade Federal do ABC_ (UFABC), onde curso o Doutorado pelo _Programa de Pós-Graduação em Engenharia da Informação_ (PPGINF).
 
-Meanwhile, I work on several side projects which I choose to do because I believe that all scientists, on principle, should use their own knowledge to contribute to society, preferably by communicating with people outside the academic environment. These side projects are: a Podcast, a Medium blog, YouTube channel, multiple Facebooks pages, and some keynotes that I organize from time to time; all about **STEM** (**S**cience, **T**echnology, **E**ngineering & **M**athematics) and Education.
+Acredito que todos os cientistas, por princípio, deveriam utilizar seu conhecimento e parte do seu tempo para contribuir com a sociedade de alguma maneira, preferencialmente comunicando-se com pessoas de fora do ambiente acadêmico. Por isso, desenvolvo projetos como: Podcasts, Blogs, canais no YouTube, páginas no Facebook, e palestras que organizo de tempos em tempos; tudo é, de alguma forma, relacionado a educação em _Ciência, Tecnologia, Engenharia e Matemática_ (**STEM**, _Science, Technology, Engineering and Mathematics_).
 
-I am also working on a side-project called "Café com Sinais" that started in 2018 as a typical Podcast (audio only). I invite students, professors, and industry professionals to talk about science, technology, engineering, education, research, academic life, professional skills, and general topics. Despite the main subjects listed above, guests may talk about anything they want, but Café com Sinais do not endorse their opinions and messages. This Podcast goes Live through Twitch, where spectators can send messages and questions  (we read them only at the end of the episode or at the end of each part).
+Atualmente, eu também trabalho em um projeto paralelo chamado "Café com Sinais", que foi iniciado em 2018 na forma de um típico Podcast (somente em áudio). Convido estudantes, professores e profissionais da indústria para conversar sobre ciência, tecnologia, engenharia, educação, pesquisa, vida acadêmica, habilidades profissionais, e tantos outros tópicos. Apesar dos principais assuntos mencionados, os convidatos podem falar a respeito do que bem quiserem; porém, vale ressaltar que o "Café com Sinais" não endossa suas opiniões ou suas mensagens. Este Podcast é transmitido ao vivo pela [Twitch])(https://www.twitch.tv/cafecomsinais), por onde os espectadores podem participar enviando mensagens e perguntas, que são lidas apenas ao final do episódio ou ao final de cada parte.
 
-## Channels and Social Media
+## Canais e Redes Sociais
 
-### Personal
+### Pessoais
 
 * [Facebook](https://www.facebook.com/titospadini)
 * [Twitter](https://www.twitter.com/titospadini)
 * [YouTube](https://www.youtube.com/titospadini)
 * [Medium](https://www.medium.com/@titospadini)
 
-### Professional & Research
+### Acadêmicas e Profissionais
 
 * [LinkedIn](https://www.linkedin.com/in/titospadini/)
 * [Researchgate](https://www.researchgate.net/profile/Tito_Spadini)
@@ -39,17 +39,17 @@ I am also working on a side-project called "Café com Sinais" that started in 20
 
 ### Café com Sinais (Podcast)
 
-* [YouTube - Café com Sinais](https://www.youtube.com/channel/UCLnSFZcHeSNDNpYx1igvvSA) (Full Episodes)
-* [YouTube - Janelas do Café com Sinais](https://www.youtube.com/channel/UC2wYPgMUzIm9XTKTf6pgOqA) (Individual Parts)
+* [YouTube - Café com Sinais](https://www.youtube.com/channel/UCLnSFZcHeSNDNpYx1igvvSA) (Episódios Completos)
+* [YouTube - Janelas do Café com Sinais](https://www.youtube.com/channel/UC2wYPgMUzIm9XTKTf6pgOqA) (Partes Individuais)
 * [YouTube - Amostras do Café com Sinais](https://www.youtube.com/channel/UCG407Ck4UM-J6kjP2HKe3_Q) (Highlights)
 * [Twitch](https://www.twitch.tv/cafecomsinais) (Lives)
-* [Anchor](https://anchor.fm/cafe-com-sinais) (Podcast, Audio Only)
+* [Anchor](https://anchor.fm/cafe-com-sinais) (Podcast, somente áudio)
 * [Instagram](https://www.instagram.com/cafecomsinais/)
 * [Facebook](https://www.facebook.com/cafecomsinais)
 * [Twitter](https://twitter.com/CafeComSinais)
 * [LinkedIn](https://www.linkedin.com/company/cafecomsinais/)
 
-## Concentration Fields
+## Áreas de Interesse em Pesquisa
 
 * Audio, Music and Speech Signal Processing
 * Denoising
@@ -60,144 +60,24 @@ I am also working on a side-project called "Café com Sinais" that started in 20
 
 <!-- # _Curriculum vitae_ -->
 
-## Education
+## Educação
 
-* **PhD Student in Information Engineering**
+* **Doutorado em Engenharia da Informação**
   * Universidade Federal do ABC (UFABC)
-  * Advisor:    Ph.D. Ricardo Suyama
-  * co-Advisor: Ph.D. Kenji Nose Filho
-  * 2020 - Current
+  * Orientador:    Ph.D. Ricardo Suyama
+  * Co-Orientador: Ph.D. Kenji Nose Filho
+  * 2020 - Atual
 
-* **Master of Science in Information Engineering**
+* **Mestrado em Engenharia da Informação**
   * Universidade Federal do ABC (UFABC)
-  * Advisor:  Ph.D. Ricardo Suyama
-  * Title:  _Generative Adversarial Networks for Audio and Speech Enhancement_
+  * Orientador:  Ph.D. Ricardo Suyama
+  * Tema:  _Generative Adversarial Networks for Audio and Speech Enhancement_
   * 2018 - 2020
 
-* **Bachelor of Science in Information Engineering**
+* **Bacharelado em Engenharia de Informação**
   * Universidade Federal do ABC (UFABC)
   * 2015 - 2017
 
-* **Bachelor of Science in Science & Technology**
+* **Bacharelado em Ciência e Tecnologia**
   * Universidade Federal do ABC (UFABC)
   * 2011 - 2015
-
-<!-- Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-``` -->
