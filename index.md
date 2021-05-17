@@ -20,6 +20,12 @@ Acredito que todos os cientistas, por princípio, deveriam utilizar seu conhecim
 
 Atualmente, eu também trabalho em um projeto paralelo chamado "Café com Sinais", que foi iniciado em 2018 na forma de um típico Podcast (somente em áudio). Convido estudantes, professores e profissionais da indústria para conversar sobre ciência, tecnologia, engenharia, educação, pesquisa, vida acadêmica, habilidades profissionais, e tantos outros tópicos. Apesar dos principais assuntos mencionados, os convidatos podem falar a respeito do que bem quiserem; porém, vale ressaltar que o "Café com Sinais" não endossa suas opiniões ou suas mensagens. Este Podcast é transmitido ao vivo pela [Twitch](https://www.twitch.tv/cafecomsinais), por onde os espectadores podem participar enviando mensagens e perguntas, que são lidas apenas ao final do episódio ou ao final de cada parte.
 
+
+## Livros
+
+EM BREVE...
+
+
 ## Canais e Redes Sociais
 
 ### Pessoais
