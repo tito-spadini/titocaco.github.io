@@ -51,12 +51,15 @@ Atualmente, eu também trabalho em um projeto paralelo chamado "Café com Sinais
 
 ## Áreas de Interesse em Pesquisa
 
-* Audio, Music and Speech Signal Processing
-* Denoising
-* Digital Signal Processing
-* Computational Intelligence
-* Machine Learning
-* Data Science
+* Síntese de Fala
+* Melhoramento de Áudio e Voz
+* Separação Cega de Fontes
+* Reconhecimento de Eventos Sonoros
+* Reconhecimento Automático de Fala
+* Recuperação de Informação Musical
+* Classificação Acústica de Ambiente
+* Métodos de Machine Learning
+* Métodos de Ciência de Dados
 
 <!-- # _Curriculum vitae_ -->
 
