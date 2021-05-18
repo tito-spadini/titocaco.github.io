@@ -24,12 +24,17 @@ Atualmente, eu também trabalho em um projeto paralelo chamado "Café com Sinais
 ## Livros
 
 <ol>
- <li>"Primeiros Contatos com a Graduação" (lançamento previsto para Junho de 2021)</li>
- <li>"Tropeços em Disciplinas da Graduação" (lançamento previsto para Junho de 2021)</li>
+ <li>"Primeiros Contatos com a Graduação" (previsão: Junho de 2021)</li>
+ <li>"Tropeços em Disciplinas da Graduação" (previsão: Junho de 2021)</li>
+ <li>"Histórias da Graduação" (previsão: Julho de 2021)</li>
+ <li>"Inquietudes sobre a Graduação" (previsão: Julho de 2021)</li>
 </ol>
 
 Obs 1: As versões em eBook de tais livros são totalmente gratuitas!
+
 Obs 2: Tão logo os livros sejam lançados, incluirei aqui os links diretos para a loja.
+
+Obs 3: Embora não estejam listados, por ainda não terem previsão, há ao menos outros dois livros sobre a Graduação.
 
 
 ## Canais e Redes Sociais
