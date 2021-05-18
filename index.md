@@ -73,13 +73,13 @@ EM BREVE...
 
 * **Doutorado em Engenharia da Informação**
   * Universidade Federal do ABC (UFABC)
-  * Orientador:    Ph.D. Ricardo Suyama
-  * Co-Orientador: Ph.D. Kenji Nose Filho
+  * Orientador:    PhD Ricardo Suyama
+  * Co-Orientador: PhD Kenji Nose Filho
   * 2020 - Atual
 
 * **Mestrado em Engenharia da Informação**
   * Universidade Federal do ABC (UFABC)
-  * Orientador:  Ph.D. Ricardo Suyama
+  * Orientador:  PhD Ricardo Suyama
   * Tema:  _Generative Adversarial Networks for Audio and Speech Enhancement_
   * 2018 - 2020
 
