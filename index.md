@@ -23,7 +23,13 @@ Atualmente, eu também trabalho em um projeto paralelo chamado "Café com Sinais
 
 ## Livros
 
-EM BREVE...
+<ol>
+ <li>"Primeiros Contatos com a Graduação" (lançamento previsto para Junho de 2021)</li>
+ <li>"Tropeços em Disciplinas da Graduação" (lançamento previsto para Junho de 2021)</li>
+</ol>
+
+Obs 1: As versões em eBook de tais livros são totalmente gratuitas!
+Obs 2: Tão logo os livros sejam lançados, incluirei aqui os links diretos para a loja.
 
 
 ## Canais e Redes Sociais
