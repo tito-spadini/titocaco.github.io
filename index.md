@@ -34,7 +34,7 @@ Obs 1: As versões em eBook de tais livros são totalmente gratuitas!
 
 Obs 2: Tão logo os livros sejam lançados, incluirei aqui os links diretos para a loja.
 
-Obs 3: Embora não estejam listados, por ainda não terem previsão, há ao menos outros dois livros sobre a Graduação.
+Obs 3: Embora não tenham ainda uma previsão de lançamento, há ao menos outros dois livros sobre a Graduação.
 
 
 ## Canais e Redes Sociais
