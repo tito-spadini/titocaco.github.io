@@ -30,12 +30,6 @@ Atualmente, eu também trabalho em um projeto paralelo chamado "Café com Sinais
  <li>"Inquietudes sobre a Graduação" (previsão: Julho de 2021)</li>
 </ol>
 
-Obs 1: As versões em eBook de tais livros são totalmente gratuitas!
-
-Obs 2: Tão logo os livros sejam lançados, incluirei aqui os links diretos para a loja.
-
-Obs 3: Embora não tenham ainda uma previsão de lançamento, há ao menos outros dois livros sobre a Graduação.
-
 
 ## Canais e Redes Sociais
 
