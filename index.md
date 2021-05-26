@@ -24,7 +24,7 @@ Atualmente, eu também trabalho em um projeto paralelo chamado "Café com Sinais
 ## Livros
 
 <ol>
- <li>["Primeiros Contatos com a Graduação"](https://www.amazon.com.br/dp/B095W1Y6NW/) (em Pré-Venda, lançamento em 31/05/2021)</li>
+ <li>[Primeiros Contatos com a Graduação](https://www.amazon.com.br/dp/B095W1Y6NW/) (em Pré-Venda, lançamento em 31/05/2021)</li>
  <li>"Tropeços em Disciplinas da Graduação" (previsão: Junho de 2021)</li>
  <li>"Histórias da Graduação" (previsão: Julho de 2021)</li>
  <li>"Inquietudes sobre a Graduação" (previsão: Julho de 2021)</li>
