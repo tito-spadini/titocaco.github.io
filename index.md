@@ -28,7 +28,7 @@ Atualmente, eu também trabalho em um projeto paralelo chamado "Café com Sinais
 * "Tropeços em Disciplinas da Graduação" (previsão: Junho de 2021)
 * "Histórias da Graduação" (previsão: Julho de 2021)
 * "Inquietudes sobre a Graduação" (previsão: Julho de 2021)
-* <nome_indefinido> (previsão: Agosto de 2021)
+* título indefinido... (previsão: Agosto de 2021)
 * "Sugestões sobre a Graduação" (previsão: Setembro de 2021)
 
 
