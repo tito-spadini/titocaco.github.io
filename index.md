@@ -31,6 +31,8 @@ Atualmente, eu também trabalho em um projeto paralelo chamado "Café com Sinais
 * título indefinido... (previsão: Agosto de 2021)
 * "Sugestões sobre a Graduação" (previsão: Setembro de 2021)
 
+Atenção! **NÃO** é necessário utilizar um dispositivo *Kindle* para ler os *eBooks*; é possível lê-los pelo seu Smartphone, Tablet ou computador. Para isso, instale o [aplicativo gratuito](https://www.amazon.com.br/b?ie=UTF8&node=17877530011), disponível para iOS, Android, Mac e PC.
+
 
 ## Canais e Redes Sociais
 
