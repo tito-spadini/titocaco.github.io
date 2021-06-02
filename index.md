@@ -26,10 +26,10 @@ Atualmente, eu também trabalho em um projeto paralelo chamado "Café com Sinais
 
 * ["Primeiros Contatos com a Graduação"](https://www.amazon.com.br/dp/B095W1Y6NW/)
 * ["Tropeços em Disciplinas da Graduação"](https://www.amazon.com.br/dp/B096F31X9G)
-* "Histórias da Graduação" (previsão: Julho de 2021)
-* "Inquietudes sobre a Graduação" (previsão: Julho de 2021)
-* título indefinido... (previsão: Agosto de 2021)
-* "Sugestões sobre a Graduação" (previsão: Setembro de 2021)
+* "Histórias da Graduação" (sendo escrito)
+* "Inquietudes sobre a Graduação" (sendo escrito)
+* título indefinido... (sendo escrito)
+* "Sugestões sobre a Graduação" (sendo escrito)
 
 Atenção! **NÃO** é necessário utilizar um dispositivo *Kindle* para ler os *eBooks*; é possível lê-los pelo seu Smartphone, Tablet ou computador. Para isso, instale o [aplicativo gratuito](https://www.amazon.com.br/b?ie=UTF8&node=17877530011), disponível para iOS, Android, Mac e PC.
 
