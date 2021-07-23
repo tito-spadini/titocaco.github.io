@@ -26,7 +26,7 @@ Atualmente, eu também trabalho em um projeto paralelo chamado "Café com Sinais
 
 * ["Primeiros Contatos com a Graduação"](https://www.amazon.com.br/dp/B095W1Y6NW/)
 * ["Tropeços em Disciplinas da Graduação"](https://www.amazon.com.br/dp/B096F31X9G)
-* ["Histórias da Graduação"](https://www.amazon.com.br/dp/B09B2TP6P3) >>> NOVO! <<<
+* ["Histórias da Graduação"](https://www.amazon.com.br/dp/B09B2TP6P3) >> NOVO! <<
 * "Inquietudes sobre a Graduação" (sendo escrito)
 * título indefinido... (sendo escrito)
 * "Sugestões sobre a Graduação" (sendo escrito)
