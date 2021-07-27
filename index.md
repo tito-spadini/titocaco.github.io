@@ -24,8 +24,8 @@ Atualmente, eu também trabalho em um projeto paralelo chamado "Café com Sinais
 ## Livros
 
 
-* ["Primeiros Contatos com a Graduação"](https://www.amazon.com.br/dp/B095W1Y6NW/)
-* ["Tropeços em Disciplinas da Graduação"](https://www.amazon.com.br/dp/B096F31X9G)
+* ["Primeiros Contatos com a Graduação"](https://www.amazon.com.br/dp/B095W1Y6NW/) >> GRATUITO durante os dias 31/07/2021 e 01/08/2021 <<
+* ["Tropeços em Disciplinas da Graduação"](https://www.amazon.com.br/dp/B096F31X9G) >> GRATUITO durante os dias 31/07/2021 e 01/08/2021 <<
 * ["Histórias da Graduação"](https://www.amazon.com.br/dp/B09B2TP6P3) >> NOVO! <<
 * "Inquietudes sobre a Graduação" (sendo escrito)
 * título indefinido... (sendo escrito)
