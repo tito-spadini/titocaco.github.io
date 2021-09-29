@@ -4,6 +4,8 @@ layout: default
 
 <img src="https://raw.githubusercontent.com/titocaco/titocaco.github.io/master/images/tito_000.jpg" width="200" height="200"/>
 
+**Novo livro**: ["Inquietudes sobre a Graduação"](https://www.amazon.com.br/dp/B09H7Q8LSH)
+
 ## Endereços de e-Mail
 
 * **tito.caco@ufabc.edu.br** (acadêmico)
