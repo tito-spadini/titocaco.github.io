@@ -6,6 +6,7 @@ layout: default
 
 ## **NOVO LIVRO**:
 ["O Sensei da Graduação"](https://www.amazon.com.br/dp/B09K5VWWT6)
+Vídeo de Lançamento: [https://www.youtube.com/watch?v=qhr7AoF5c0o](https://www.youtube.com/watch?v=qhr7AoF5c0o)
 
 ## Endereços de e-Mail
 
