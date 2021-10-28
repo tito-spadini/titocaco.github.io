@@ -5,7 +5,7 @@ layout: default
 <img src="https://raw.githubusercontent.com/titocaco/titocaco.github.io/master/images/tito_000.jpg" width="200" height="200"/>
 
 ## **NOVO LIVRO**:
->>> ["O Sensei da Graduação"](https://www.amazon.com.br/dp/B09K5VWWT6) <<<
+["O Sensei da Graduação"](https://www.amazon.com.br/dp/B09K5VWWT6)
 
 ## Endereços de e-Mail
 
