@@ -5,9 +5,9 @@ layout: default
 <img src="https://raw.githubusercontent.com/titocaco/titocaco.github.io/master/images/tito_000.jpg" width="200" height="200"/>
 
 ## **NOVO LIVRO**:
-["O Sensei da Graduação"](https://www.amazon.com.br/dp/B09K5VWWT6)
+["Sugestões sobre a Graduação"](https://www.amazon.com.br/dp/B09NW9H429)
 
-Vídeo de Lançamento: [https://www.youtube.com/watch?v=qhr7AoF5c0o](https://www.youtube.com/watch?v=qhr7AoF5c0o)
+Vídeo de Lançamento: [https://www.youtube.com/watch?v=qhr7AoF5c0o](https://www.youtube.com/watch?v=e_OJgHREomE)
 
 ## Endereços de e-Mail
 
@@ -33,8 +33,8 @@ Atualmente, eu também trabalho em um projeto paralelo chamado "Café com Sinais
 * ["Tropeços em Disciplinas da Graduação"](https://www.amazon.com.br/dp/B096F31X9G)
 * ["Histórias da Graduação"](https://www.amazon.com.br/dp/B09B2TP6P3)
 * ["Inquietudes sobre a Graduação"](https://www.amazon.com.br/dp/B09H7Q8LSH)
-* ["O Sensei da Graduação"](https://www.amazon.com.br/dp/B09K5VWWT6) >> NOVO! <<
-* "Sugestões sobre a Graduação" (sendo escrito)
+* ["O Sensei da Graduação"](https://www.amazon.com.br/dp/B09K5VWWT6) 
+* ["Sugestões sobre a Graduação"](https://www.amazon.com.br/dp/B09NW9H429) >> NOVO! <<
 
 Atenção! **NÃO** é necessário utilizar um dispositivo *Kindle* para ler os *eBooks*; é possível lê-los pelo seu Smartphone, Tablet ou computador. Para isso, instale o [aplicativo gratuito](https://www.amazon.com.br/b?ie=UTF8&node=17877530011), disponível para iOS, Android, Mac e PC.
 
