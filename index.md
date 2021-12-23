@@ -4,10 +4,17 @@ layout: default
 
 <img src="https://raw.githubusercontent.com/titocaco/titocaco.github.io/master/images/tito_000.jpg" width="200" height="200"/>
 
-## **NOVO LIVRO**:
-["Sugestões sobre a Graduação"](https://www.amazon.com.br/dp/B09NW9H429)
+## Livros
 
-Vídeo de Lançamento: [https://www.youtube.com/watch?v=qhr7AoF5c0o](https://www.youtube.com/watch?v=e_OJgHREomE)
+* ["Primeiros Contatos com a Graduação"](https://www.amazon.com.br/dp/B095W1Y6NW/)
+* ["Tropeços em Disciplinas da Graduação"](https://www.amazon.com.br/dp/B096F31X9G)
+* ["Histórias da Graduação"](https://www.amazon.com.br/dp/B09B2TP6P3)
+* ["Inquietudes sobre a Graduação"](https://www.amazon.com.br/dp/B09H7Q8LSH)
+* ["O Sensei da Graduação"](https://www.amazon.com.br/dp/B09K5VWWT6) 
+* ["Sugestões sobre a Graduação"](https://www.amazon.com.br/dp/B09NW9H429) >> NOVO! <<
+
+Atenção! **NÃO** é necessário utilizar um dispositivo *Kindle* para ler os *eBooks*; é possível lê-los pelo seu Smartphone, Tablet ou computador. Para isso, instale o [aplicativo gratuito](https://www.amazon.com.br/b?ie=UTF8&node=17877530011), disponível para iOS, Android, Mac e PC.
+
 
 ## Endereços de e-Mail
 
@@ -24,19 +31,6 @@ Trabalho no _Laboratório de Sinais e Sistemas_ (LSS) da _Universidade Federal d
 Acredito que todos os cientistas, por princípio, deveriam utilizar seu conhecimento e parte do seu tempo para contribuir com a sociedade de alguma maneira, preferencialmente comunicando-se com pessoas de fora do ambiente acadêmico. Por isso, desenvolvo projetos como: Podcasts, Blogs, canais no YouTube, páginas no Facebook, e palestras que organizo de tempos em tempos; tudo é, de alguma forma, relacionado a educação em _Ciência, Tecnologia, Engenharia e Matemática_ (**STEM**, _Science, Technology, Engineering and Mathematics_).
 
 Atualmente, eu também trabalho em um projeto paralelo chamado "Café com Sinais", que foi iniciado em 2018 na forma de um típico Podcast (somente em áudio). Convido estudantes, professores e profissionais da indústria para conversar sobre ciência, tecnologia, engenharia, educação, pesquisa, vida acadêmica, habilidades profissionais, e tantos outros tópicos. Apesar dos principais assuntos mencionados, os convidatos podem falar a respeito do que bem quiserem; porém, vale ressaltar que o "Café com Sinais" não endossa suas opiniões ou suas mensagens. Este Podcast é transmitido ao vivo pela [Twitch](https://www.twitch.tv/cafecomsinais), por onde os espectadores podem participar enviando mensagens e perguntas, que são lidas apenas ao final do episódio ou ao final de cada parte.
-
-
-## Livros
-
-
-* ["Primeiros Contatos com a Graduação"](https://www.amazon.com.br/dp/B095W1Y6NW/)
-* ["Tropeços em Disciplinas da Graduação"](https://www.amazon.com.br/dp/B096F31X9G)
-* ["Histórias da Graduação"](https://www.amazon.com.br/dp/B09B2TP6P3)
-* ["Inquietudes sobre a Graduação"](https://www.amazon.com.br/dp/B09H7Q8LSH)
-* ["O Sensei da Graduação"](https://www.amazon.com.br/dp/B09K5VWWT6) 
-* ["Sugestões sobre a Graduação"](https://www.amazon.com.br/dp/B09NW9H429) >> NOVO! <<
-
-Atenção! **NÃO** é necessário utilizar um dispositivo *Kindle* para ler os *eBooks*; é possível lê-los pelo seu Smartphone, Tablet ou computador. Para isso, instale o [aplicativo gratuito](https://www.amazon.com.br/b?ie=UTF8&node=17877530011), disponível para iOS, Android, Mac e PC.
 
 
 ## Canais e Redes Sociais
