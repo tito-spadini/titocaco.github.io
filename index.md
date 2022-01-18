@@ -6,12 +6,12 @@ layout: default
 
 ## Livros
 
-* ["Primeiros Contatos com a Graduação"](https://www.amazon.com.br/dp/B095W1Y6NW/)
-* ["Tropeços em Disciplinas da Graduação"](https://www.amazon.com.br/dp/B096F31X9G)
-* ["Histórias da Graduação"](https://www.amazon.com.br/dp/B09B2TP6P3)
-* ["Inquietudes sobre a Graduação"](https://www.amazon.com.br/dp/B09H7Q8LSH)
-* ["O Sensei da Graduação"](https://www.amazon.com.br/dp/B09K5VWWT6) 
-* ["Sugestões sobre a Graduação"](https://www.amazon.com.br/dp/B09NW9H429) >> NOVO! <<
+* "Primeiros Contatos com a Graduação" [[Kindle]](https://www.amazon.com.br/dp/B095W1Y6NW/) [[PDF - Branco]](https://github.com/titocaco/livros-colecao-graduacao/raw/main/Livro%201%20-%20Primeiros%20Contatos%20com%20a%20Gradua%C3%A7%C3%A3o%20(Tito%20Spadini)/Tito%20Spadini%20-%201%20-%20Primeiros%20Contatos%20com%20a%20Gradua%C3%A7%C3%A3o.pdf) [[PDF - Creme]](https://github.com/titocaco/livros-colecao-graduacao/raw/main/Livro%201%20-%20Primeiros%20Contatos%20com%20a%20Gradua%C3%A7%C3%A3o%20(Tito%20Spadini)/Tito%20Spadini%20-%201%20-%20Primeiros%20Contatos%20com%20a%20Gradua%C3%A7%C3%A3o%20-%20Fundo%20Creme.pdf)
+* "Tropeços em Disciplinas da Graduação" [[Kindle]](https://www.amazon.com.br/dp/B096F31X9G)
+* "Histórias da Graduação" [[Kindle]](https://www.amazon.com.br/dp/B09B2TP6P3)
+* "Inquietudes sobre a Graduação" [[Kindle]](https://www.amazon.com.br/dp/B09H7Q8LSH)
+* "O Sensei da Graduação" [[Kindle]](https://www.amazon.com.br/dp/B09K5VWWT6) 
+* "Sugestões sobre a Graduação" [[Kindle]](https://www.amazon.com.br/dp/B09NW9H429)
 
 Atenção! **NÃO** é necessário utilizar um dispositivo *Kindle* para ler os *eBooks*; é possível lê-los pelo seu Smartphone, Tablet ou computador. Para isso, instale o [aplicativo gratuito](https://www.amazon.com.br/b?ie=UTF8&node=17877530011), disponível para iOS, Android, Mac e PC.
 
