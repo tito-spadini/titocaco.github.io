@@ -3,15 +3,13 @@ description: Engenheiro de Informação, Cientista, Pesquisador e Divulgador Cie
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
-timezone: '-0300'
+timezone: America/Sao_Paulo
 
 url:  https://titocaco.github.io
-languages: ["en", "pt"]
+languages: "Portuguese"
 exclude_from_localizations: ["assets", "CNAME"]
-defaultLang: en
-languageNames:
-  en: English
-  pt: Portuguese
+defaultLang: "Portuguese"
 
-gems:
-  - jekyll-multiple-languages-plugin
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge

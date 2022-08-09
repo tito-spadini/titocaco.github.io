@@ -2,5 +2,5 @@ source 'https://rubygems.org'
 
 gemspec
 
-gem 'jekyll-multiple-languages-plugin'
 gem "webrick", "~> 1.7"
+gem "rouge"
