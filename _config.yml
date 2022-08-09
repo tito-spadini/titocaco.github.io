@@ -3,6 +3,7 @@ description: Engenheiro de Informação, Cientista, Pesquisador e Divulgador Cie
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
+timezone: '-0300'
 
 url:  https://titocaco.github.io
 languages: ["en", "pt"]
