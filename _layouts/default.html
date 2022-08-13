@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
+<html lang="{{ site.lang | default: "pt-BR" }}">
   <head>
 
     <meta name="google-site-verification" content="3F9P-izKxm_ZPkK2uyld-xXs-AdgffoFftQblq34ipA" />
@@ -25,7 +25,7 @@
     <a id="skip-to-content" href="#content">Skip to the content.</a>
 
     <header class="page-header" role="banner">
-      <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
+      <h1 class="project-name">{{ site.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
       {% if site.github.is_project_page %}
         <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
@@ -37,11 +37,10 @@
 
       <!-- Begin Custom -->
 
-        <a href="/" class="btn">Home</a>
+        <!-- <a href="/" class="btn">Home</a> -->
         <!-- <a href="/about" class="btn">About</a> -->
-        <!-- <a href="/publications" class="btn">Publications</a> -->
-        <!-- <a href="/downloads" class="btn">Downloads</a> -->
-        <a href="/blog" class="btn">Blog</a>
+        <!-- <a href="/blog" class="btn">Blog</a> -->
+        <!-- <a href="/publicacoes" class="btn">Publicações</a> -->
 
       <!-- End Custom -->
 
