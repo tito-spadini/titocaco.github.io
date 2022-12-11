@@ -13,8 +13,6 @@ layout: default
 * "O Sensei da Graduação" [[Kindle]](https://www.amazon.com.br/dp/B09K5VWWT6) [[PDF - Branco]](https://github.com/titocaco/livros-colecao-graduacao/raw/main/Livro%205%20-%20O%20Sensei%20da%20Gradua%C3%A7%C3%A3o%20(Tito%20Spadini)/Tito%20Spadini%20-%205%20-%20O%20Sensei%20da%20Gradua%C3%A7%C3%A3o.pdf) [[PDF - Creme]](https://github.com/titocaco/livros-colecao-graduacao/raw/main/Livro%205%20-%20O%20Sensei%20da%20Gradua%C3%A7%C3%A3o%20(Tito%20Spadini)/Tito%20Spadini%20-%205%20-%20O%20Sensei%20da%20Gradua%C3%A7%C3%A3o%20-%20Fundo%20Creme.pdf)
 * "Sugestões sobre a Graduação" [[Kindle]](https://www.amazon.com.br/dp/B09NW9H429) [[PDF - Branco]](https://github.com/titocaco/livros-colecao-graduacao/raw/main/Livro%206%20-%20Sugest%C3%B5es%20sobre%20a%20Gradua%C3%A7%C3%A3o%20(Tito%20Spadini)/Tito%20Spadini%20-%206%20-%20Sugest%C3%B5es%20sobre%20a%20Gradua%C3%A7%C3%A3o.pdf) [[PDF - Creme]](https://github.com/titocaco/livros-colecao-graduacao/raw/main/Livro%206%20-%20Sugest%C3%B5es%20sobre%20a%20Gradua%C3%A7%C3%A3o%20(Tito%20Spadini)/Tito%20Spadini%20-%206%20-%20Sugest%C3%B5es%20sobre%20a%20Gradua%C3%A7%C3%A3o%20-%20Fundo%20Creme.pdf)
 
-Atenção! **NÃO** é necessário utilizar um dispositivo *Kindle* para ler os *eBooks*; é possível lê-los pelo seu Smartphone, Tablet ou computador. Para isso, instale o [aplicativo gratuito](https://www.amazon.com.br/b?ie=UTF8&node=17877530011), disponível para iOS, Android, Mac e PC.
-
 
 ## Endereços de e-Mail
 
