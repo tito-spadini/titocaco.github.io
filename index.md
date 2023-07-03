@@ -47,6 +47,8 @@ Atualmente, eu também trabalho em um projeto paralelo chamado "Café com Sinais
 * [Scholar](https://scholar.google.com.br/citations?user=5d13kDAAAAAJ)
 * [ORCID](https://orcid.org/0000-0002-2716-174X)
 * [Lattes](http://lattes.cnpq.br/3817440854911030)
+* [Github](https://github.com/tito-spadini)
+* [Hugging Face](https://huggingface.co/TitoSpadini)
 
 ### Café com Sinais (Podcast)
 
