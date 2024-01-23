@@ -5,7 +5,7 @@ google_analytics:
 theme: jekyll-theme-cayman
 timezone: America/Sao_Paulo
 
-url:  https://titocaco.github.io
+url:  https://titospadini.github.io
 languages: "Portuguese"
 exclude_from_localizations: ["assets", "CNAME"]
 defaultLang: "Portuguese"
