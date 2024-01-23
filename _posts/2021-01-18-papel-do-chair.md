@@ -1,7 +1,7 @@
 ---
 layout:	post
-title: 	"Compreendendo e Melhorando seu Setup de Áudio para aplicações de Vídeos, Lives e Podcasts"
-date:	2021-01-11 00:00:00 -0300
+title: 	"O papel do Chair em conferências científicas"
+date:	2021-01-18 00:00:00 -0300
 author:	Tito Spadini
 published: true
 ---
