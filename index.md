@@ -2,9 +2,7 @@
 layout: default
 ---
 
-<img src="https://raw.githubusercontent.com/titocaco/titocaco.github.io/master/images/Tito.png" width="200" height="200"/>
-
-Saudações! Chamo-me Tito Spadini, e nasci em 1989 na cidade de São Paulo, SP, Brasil.
+Saudações! Chamo-me Tito Spadini.
 
 Trabalho no _Laboratório de Sinais e Sistemas_ (LSS) da _Universidade Federal do ABC_ (UFABC), onde curso o Doutorado pelo _Programa de Pós-Graduação em Engenharia da Informação_ (PPGINF).
 
